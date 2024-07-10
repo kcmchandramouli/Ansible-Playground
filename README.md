@@ -1,2 +1,2 @@
-# Ansible-Playground
-This repo is used for practicing Ansible &amp; Documenting the required things in master branch
+# Ansible Galaxy
+-   Go the Ansible Galaxy --> Roles  --> Check for the required role --> Install it wiht the given command --> Use the role in the [playbook](docker-playbook.yml)
